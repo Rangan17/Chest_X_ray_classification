@@ -1,1 +1,3 @@
 # Chest_X_ray_classification
+
+Our proposed plan for developing an ML model to detect chest X-ray images involved several key steps. First, we collected a diverse dataset of chest X-ray images, encompassing both normal and pneumonic cases. Next, we chose a suitable machine learning algorithm, such as Convolutional Neural Networks (CNNs), for disease detection, focusing on pneumonia in this context. Finally, we evaluated the model's accuracy and aimed to enhance its performance by updating it with new chest X-ray data. By adhering to this plan, we successfully developed a precise and dependable ML model for pneumonia detection in chest X-ray images, potentially impacting positive patient outcomes.
